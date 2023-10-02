@@ -32,7 +32,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='bitfit1walk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='restartbiit1.gif' title='Restart' width='' alt='Video Walkthrough' />
+
+Here's a walkthrough of the app restarting with stored data:
+
+<img src='restartbit1.gif' title='Restart' width='' alt='Restart' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif
 <!-- Recommended tools:
