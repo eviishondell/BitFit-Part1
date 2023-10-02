@@ -37,6 +37,10 @@ Here's a walkthrough of the app restarting with stored data:
 
 <img src='restartbit1.gif' title='Restart' width='' alt='Restart' />
 
+The user is scrolling:
+
+<img src='scroll.gif' title='Scroll' width='' alt='Scroll' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif
 <!-- Recommended tools:
